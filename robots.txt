@@ -1,0 +1,4 @@
+User-Agent: *
+Allow: /
+
+Sitemap: https://verikali.github.io/sitemap_index.txt.gz
